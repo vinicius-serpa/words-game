@@ -1,0 +1,8 @@
+Deliverables
+- Source code	- OK
+- Class diagram - OK
+- Unit tests	- OK
+- Video
+
+Extra
+- Internationalize the main phrases
